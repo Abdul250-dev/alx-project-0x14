@@ -27,3 +27,18 @@ Instructions:
 Create the MovieCard Component:
 
 Create a new file named MovieCard.tsx in your components/commons directory.
+
+## 0. Install Necessary Dependencies
+mandatory
+Objective: Set up the next-pwa package to enable PWA features in our cine seek movie app.
+
+Instructions:
+
+Clone the repository from GitHub:
+git clone https://github.com/YOUR_USER_NAME/alx-project-0x14.git alx-pwa-0x01
+cd alx-movie-app
+
+Install the next-pwa package from here
+npm i @ducanh2912/next-pwa
+npm i -D webpack
+Verify the installation by checking the package.json file for "webpack": "^5.94.0" and "@ducanh2912/next-pwa": "^10.2.9"
